@@ -1,0 +1,1 @@
+fill ~-1 ~-1 ~-1 ~1 ~-1 ~1 minecraft:frosted_ice replace minecraft:water[level=0]
